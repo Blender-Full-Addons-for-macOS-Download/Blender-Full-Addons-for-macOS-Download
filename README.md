@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://icons.iconarchive.com/icons/bokehlicia/captiva/256/blender-icon.png" width="350" alt="Blender Addons for macOS Banner" />
+  <img src="https://icons.iconarchive.com/icons/bokehlicia/captiva/256/blender-icon.png" width="250" alt="Blender Addons for macOS Banner" />
 </p>
 
 <h1 align="center">Blender Addons for macOS</h1>
